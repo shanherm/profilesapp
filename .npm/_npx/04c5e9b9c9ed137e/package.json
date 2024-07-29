@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "create-amplify": "^1.0.4"
+  }
+}
