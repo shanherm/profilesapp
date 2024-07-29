@@ -1,0 +1,12 @@
+0 verbose cli /home/ec2-user/.local/share/fnm/node-versions/v20.16.0/installation/bin/node /run/user/1000/fnm_multishells/2708_1722263077381/bin/npm
+1 info using npm@10.8.1
+2 info using node@v20.16.0
+3 silly config load:file:/home/ec2-user/.local/share/fnm/node-versions/v20.16.0/installation/lib/node_modules/npm/npmrc
+4 silly config load:file:/home/ec2-user/profilesapp/.npmrc
+5 silly config load:file:/home/ec2-user/.npmrc
+6 silly config load:file:/home/ec2-user/.local/share/fnm/node-versions/v20.16.0/installation/etc/npmrc
+7 verbose title npm run dev
+8 verbose argv "run" "dev"
+9 verbose logfile logs-max:10 dir:/home/ec2-user/.npm/_logs/2024-07-29T14_29_11_202Z-
+10 verbose logfile /home/ec2-user/.npm/_logs/2024-07-29T14_29_11_202Z-debug-0.log
+11 silly logfile done cleaning log files
